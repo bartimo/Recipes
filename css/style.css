@@ -3,11 +3,12 @@ body {
 }
 
 h1 {
-    font-size: 22px;
+    font-size: 24px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .container {
-    width: 80%;
+    width: 90%;
     margin: auto;
     max-width: 1000px;
 }
@@ -15,19 +16,22 @@ h1 {
 header {
     text-align: center;
     padding-top: 20px;
+    padding-bottom: 20px;
+    background: rgb(125, 121, 150);
+
 }
 
 section {
     width: 70%;
-    color: blue;
     float:left;
+ 
 }
 
 aside {
     float:right;
+    width: 30%;
+ 
 }
 
-footer {
-    clear:both;
-}
+
 
