@@ -3,5 +3,31 @@ body {
 }
 
 h1 {
-    font-size: 20px;
+    font-size: 22px;
 }
+
+.container {
+    width: 80%;
+    margin: auto;
+    max-width: 1000px;
+}
+
+header {
+    text-align: center;
+    padding-top: 20px;
+}
+
+section {
+    width: 70%;
+    color: blue;
+    float:left;
+}
+
+aside {
+    float:right;
+}
+
+footer {
+    clear:both;
+}
+
